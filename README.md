@@ -20,6 +20,6 @@ I am Esther, a Python Backend Developer with a focus on building efficient and s
 - **SCRUM**
 - **JIRA**
 - **Project management**
-- 
+  
 
   

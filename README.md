@@ -5,21 +5,19 @@ I am Esther, a detail-oriented data analyst with a strong foundation in Python p
 
 **🛠️ My Skills**:
 - **Python**
+- **Data Analysis**
 - **Postgresql**
-- **RestApi**
+- **Restful Apis**
 - **Django**
 - **Docker**
-- **Object-Oriented Programming (OOP)**
 - **GIT**
 - **AWS cloud platform**
 - **Agile**
 - **CI/CD**
-- **Software Test**
 - **Linux**
 - **Postman**
 - **SCRUM**
-- **JIRA**
-- **Project management**
+
   
 
   

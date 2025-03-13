@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Esther, a Python Backend Developer with a focus on building efficient and scalable server-side applications. Recently, I have acquired skills essential for an entry-level position, including proficiency in Python, experience with Django framework, and development of RESTful APIs. I am also familiar with database management using PostgreSQL and have a grasp of version control with Git. Additionally, I possess basic knowledge of cloud services and am committed to writing clean, maintainable code. I am eager to apply my skills and continue learning in a professional environment.
+"I am Esther, a detail-oriented data analyst with a strong foundation in Python programming. I specialize in analyzing and visualizing data to drive business insights. My expertise includes working with Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization. I have hands-on experience with SQL databases, particularly PostgreSQL, and am proficient in handling large datasets. With a focus on delivering actionable insights, I’m committed to presenting data-driven solutions while continuously refining my skills and learning new analytical techniques."
 
 **🛠️ My Skills**:
 - **Python**

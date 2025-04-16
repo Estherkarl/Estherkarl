@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-I am Esther, a Junior Data Analyst
+**I am Esther, a Junior Data Analyst**
 
 
   

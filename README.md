@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**Passionate about no-code and data analysis, I build efficient automations and solutions for freelancers and entrepreneurs.  
-Skilled in Airtable, Make, Zapier, n8n, API integrations, Power BI, Tableau, SQL, Excel and Python.  
-Sharing projects, templates, tutorials, and business tools to help others save time and work smarter.**
+**Data Analyst and Founder of Converglead.pro, building AI solutions for Africa with chatbots, voice agents, and data annotation tools. Passionate about making artificial intelligence accessible, simple, and impactful for businesses across the continent.**
 
 
   
